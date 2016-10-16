@@ -1,3 +1,5 @@
+
+# you can also use swift package init --type executable to init a package
 dir=$1
 package=$2
 cd $dir
